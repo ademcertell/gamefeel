@@ -35,11 +35,4 @@ npm run dev
 
 Join my **Discord community** to chat about games, design, and creative ideas.  
 
-<a 
-  href="https://discord.gg/vHZVGRAm3P" 
-  target="_blank" 
-  rel="noopener noreferrer"
-  className="mt-4 inline-block bg-indigo-600 text-white font-semibold py-2 px-6 rounded-lg hover:bg-indigo-700 transition"
->
-  Join a Discord
-</a>
+[Join Discord](https://discord.gg/vHZVGRAm3P)
